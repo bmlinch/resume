@@ -6,3 +6,14 @@
 .mt20{
     margin-top: 80px
 }
+.left-side-color{
+   background-color: darkslategrey;
+   position: fixed;
+   top: 0;
+   bottom: 0;
+   left: 0;
+}
+.right-side-color{
+    background-color: darkred;
+    /*margin-left: 250px;*/
+}
