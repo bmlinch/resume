@@ -1,27 +1,35 @@
 body{
-    color: white;
+    color: black;
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .adjust-size{
     height: 200px;
     width: 200px;
+    border-radius: 10%
     
 }
 .mt20{
     margin-top: 80px
 }
 .left-side-color{
-   background-color: darkslategrey;
+   background-color: lightblue;
    position: fixed;
    top: 0;
    bottom: 0;
    left: 0;
 }
 .right-side-color{
-    background-color: darkred;
+    background-color: darksalmon;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
     /*margin-left: 250px;*/
 }
 .ttext{
     font-size: 20px;
+}
+.bold{
+    font-weight: bold;
 }
 
