@@ -1,3 +1,7 @@
+body{
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
 .adjust-size{
     height: 200px;
     width: 200px;
@@ -17,3 +21,4 @@
     background-color: darkred;
     /*margin-left: 250px;*/
 }
+
