@@ -5,7 +5,8 @@ body{
 .adjust-size{
     height: 200px;
     width: 200px;
-    border-radius: 10%
+    border-radius: 10%;
+    margin-top: 20px;
     
 }
 .mt20{
