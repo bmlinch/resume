@@ -3,14 +3,14 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
 }
 .adjust-size{
-    height: 200px;
+    height: 275px;
     width: 200px;
     border-radius: 10%;
     margin-top: 20px;
     
 }
 .mt20{
-    margin-top: 80px
+    margin-top: 45px
 }
 .left-side-color{
    background-color: lightblue;
@@ -28,7 +28,7 @@ body{
     /*margin-left: 250px;*/
 }
 .ttext{
-    font-size: 20px;
+    font-size: 18px;
 }
 .bold{
     font-weight: bold;
